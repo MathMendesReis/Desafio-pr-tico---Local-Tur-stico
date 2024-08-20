@@ -1,0 +1,7 @@
+ol li::marker{
+  color: red;
+}
+
+ol li{
+  display: grid;
+}

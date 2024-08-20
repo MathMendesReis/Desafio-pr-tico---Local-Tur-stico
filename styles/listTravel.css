@@ -1,0 +1,20 @@
+.list_travel li{
+  font-weight: bold;
+  font-family: var(--font-open-sans);
+  padding-left: 28px;
+  position: relative;
+}
+
+.list_travel li::before{
+  content: "a";
+  color: transparent;
+  top: 35%;
+  left: 1.5%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  border-radius: 999px;
+  background-color: black;
+}
+
+

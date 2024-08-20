@@ -1,0 +1,17 @@
+.img_description{
+  width: 100%;
+  border-radius: 28px;
+  min-height: 350px;
+  max-height: 660px;
+  object-fit: cover;
+  margin-bottom: 24px;
+}
+
+.img_content_list{
+  width: 100%;
+  border-radius: 28px;
+  min-height: 250px;
+  max-height: 350px;
+  object-fit: cover;
+  margin-top: 64px;
+} 

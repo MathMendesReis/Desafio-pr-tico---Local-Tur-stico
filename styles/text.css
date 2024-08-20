@@ -1,0 +1,58 @@
+.headline{
+  color: var(--text-headline);
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.title_content{
+  color: var(--text-);
+  font-size: 1rem;
+  font-weight: bold;
+  padding-top: 24px;
+}
+
+.title{
+  color: var(--text-primary);
+  text-align: left;
+  font-family: var(--font-open-sans);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 49px;
+}
+
+.titleh2{
+line-height: 44px;
+}
+
+.paragraph{
+  /* paragraph */
+  font-family: var(--font-open-sans);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 22px;
+  color: var(--text-secondary);
+  }
+  
+  .titleh3{
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.75rem;
+  line-height: 38px;
+  color: var(--text-primary);
+  margin-top: 20px;
+  margin-bottom: 4px;
+  
+  }
+
+  .description{
+    font-family: var(--font-open-sans);
+    font-style: italic;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 22px;
+    text-align: center;
+    color: var(--text-secondary);
+    }
